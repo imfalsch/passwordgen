@@ -2,6 +2,8 @@ import random
 import string
 import pyperclip
 
+# MADE BY FALSCH
+
 def generate_password(length):
     """Generates a strong password with the given length."""
     # Define character set
